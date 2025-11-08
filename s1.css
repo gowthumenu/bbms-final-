@@ -1,0 +1,26 @@
+ul li {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 50px;
+    background: red;
+    color: white;
+    float: left;
+    border-radius: 15px;
+    list-style: none;
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#form {
+    width: 80%;
+    height: 270px;
+    background: red;
+    color: white;
+    
+}
